@@ -1,0 +1,4 @@
+[build-system]
+requires = [
+    "setuptools >= 46.4.0",  # `version = attr: ...` syntax is supported in setup.cfg as of setuptools-46.4.0
+]
