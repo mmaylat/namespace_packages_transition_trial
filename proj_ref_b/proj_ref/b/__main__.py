@@ -1,2 +1,2 @@
 if __name__ == "__main__":
-    print("this is project A")
+    print("this is project B")
